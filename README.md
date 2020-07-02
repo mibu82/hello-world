@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hi humans!
 This purpose to exercise how to use github by myself.
